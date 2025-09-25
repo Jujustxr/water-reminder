@@ -1,4 +1,4 @@
-```markdown
+
 # 💧 Water Reminder
 
 A simple **drinking water reminder web application** built with **Python (Flask)**.  
@@ -118,6 +118,3 @@ See `LICENSE` for more information.
 ---
 
 ⭐ **Don’t forget to give a star if this project helps you stay hydrated!** ⭐
-
-```
-
