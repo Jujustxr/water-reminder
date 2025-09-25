@@ -2,8 +2,10 @@
 # 💧 Water Reminder
 
 A simple **drinking water reminder web application** built with **Python (Flask)**.  
-This project helps users stay hydrated by setting reminders to drink water, complete with notifications and sound alerts.
-This is a little web application that i created for my college project. feel free to use. 
+This project helps users stay hydrated by setting reminders to drink water, complete with notifications and sound alerts.  
+This is a little web application that I created for my college project. Feel free to use.  
+
+---
 
 ## 📋 Features
 
@@ -13,16 +15,19 @@ This is a little web application that i created for my college project. feel fre
 - 🌐 Web-based interface with Flask  
 - 🎨 HTML templates + static assets (images, CSS, audio)  
 
+---
+
 ## 🛠️ Tech Stack
 
 - **Backend:** Python 3.x, Flask  
 - **Frontend:** HTML, CSS, JavaScript (via `templates/` and `static/`)  
 - **Environment:** Virtualenv (`venv`)  
 
+---
+
 ## 📂 Project Structure
 
-```
-
+```bash
 waterreminder/
 ├── static/             # Static assets (images, CSS, audio, etc.)
 ├── templates/          # HTML templates (e.g., index.html)
@@ -32,8 +37,7 @@ waterreminder/
 ├── tes_pyqt5.py        # (Optional) Experimental PyQt5 version
 ├── requirements.txt    # Project dependencies
 └── README.md           # Project documentation
-
-````
+---
 
 ## 🚀 Installation & Setup
 
@@ -116,4 +120,4 @@ See `LICENSE` for more information.
 ⭐ **Don’t forget to give a star if this project helps you stay hydrated!** ⭐
 
 ```
-        
+
