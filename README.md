@@ -44,7 +44,7 @@ waterreminder/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/waterreminder.git
+git clone https://github.com/Jujustxr/water-reminder.git
 cd waterreminder
 ````
 
