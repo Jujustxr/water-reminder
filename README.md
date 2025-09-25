@@ -37,6 +37,7 @@ waterreminder/
 ├── tes_pyqt5.py        # (Optional) Experimental PyQt5 version
 ├── requirements.txt    # Project dependencies
 └── README.md           # Project documentation
+````
 ---
 
 ## 🚀 Installation & Setup
@@ -52,7 +53,6 @@ cd waterreminder
 ```bash
 # Create venv
 python -m venv venv
-
 # Activate venv (Windows)
 venv\Scripts\activate
 
